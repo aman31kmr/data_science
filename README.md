@@ -9,4 +9,3 @@ As an example,
 
 Any suggestions or corrections are welcome. 
 
--Tevfik Aytekin
